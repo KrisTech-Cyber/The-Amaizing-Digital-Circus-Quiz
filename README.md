@@ -57,3 +57,9 @@ Made by Kris — aspiring cybersecurity & AI enthusiast 🐍🤖🔐
 A beginner learning Python through hands-on projects.
 
 ---
+## Demo
+
+https://github.com/user-attachments/assets/ad3d3c6c-9b8d-4235-852d-f7293534e45f
+
+
+
